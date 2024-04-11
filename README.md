@@ -22,10 +22,6 @@ iii. update existing items
 - **pipenv:** Pipenv is a tool used for managing dependencies and virtual environments in Python projects. It automatically creates and manages a virtual environment for your project and generates a Pipfile to specify dependencies.
 
 ## Features
-
-- **Document Query:** The chatbot is trained to understand and respond to user queries based on the information provided in documents. It employs machine learning algorithms to comprehend the context of the queries and provide relevant responses.
-- **Conversational Form:** When prompted by the user to call them, the chatbot initiates a conversation to collect essential user information, including Name, Email, Phone Number, and Address. The conversational form guides users through the information collection process, ensuring a smooth and engaging user experience.
-- **User Authentication:** Allow users to sign up, log in, and log out. Ensure that each user can only access and manage their own todo items.
 - **Todo Item Management:**
 Create Todo Item: Allow users to add new todo items with a title, description, and optional due date.
 View Todo Items: Display a list of todo items for the logged-in user, sorted by priority or due date.
